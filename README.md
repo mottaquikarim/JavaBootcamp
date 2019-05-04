@@ -22,6 +22,7 @@
 ### [1. How does IG Work?](content/how_does_ig_work/README.md)
 ### [2. Essential Terminology](content/essential_terminology/README.md)
 ### [3. What is Java?](content/what_is_java/README.md)
+### [4. Our First Java Program](content/our_first_java_program/README.md)
 
 
 
