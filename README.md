@@ -1,4 +1,4 @@
-![jscon](assets/js.png)
+![jscon](assets/javaicon.png)
 
 # Java Bootcamp 
 🎉🎈🎂🍾🎊🍻💃
