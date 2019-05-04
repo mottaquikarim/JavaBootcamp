@@ -15,6 +15,14 @@
 * Basics of java the language
 * Building small terminal programs in Java
 
+## Using this Document
+
+Please keep this page open in your browser as we navigate through this lecture. If you'd like, you may also **bookmark** this particular page as it will be maintained for as long as I teach this course in the future.
+
+**Crucially**, please download the `.zip` version of this repository as it contains code examples that you will be expected to complete as part of class today. Please refer to the image below for how to download the zipped version of this repo.
+
+![zip](assets/unzip.png)
+
 
 ## Table of Contents
 *We will break this bootcamp up into a few sections -- and hopefully we can work through all the sections listed below!*
@@ -23,7 +31,7 @@
 ### [2. Essential Terminology](content/essential_terminology/README.md)
 ### [3. What is Java?](content/what_is_java/README.md)
 ### [4. Our First Java Program](content/our_first_java_program/README.md)
-
+### [5. Setting Up Our Environment](content/setting_up_our_environment/README.md)
 
 
 

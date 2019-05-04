@@ -25,3 +25,12 @@ public class HelloWrold {
 Here are three common ways:
 
 ![print](/assets/system.out.print-api.png)
+
+### How to comment in Java?
+
+```java
+// This is a comment
+
+/* This is a
+multi-line comment*/
+```
