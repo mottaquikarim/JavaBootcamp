@@ -47,6 +47,8 @@ Please keep this page open in your browser as we navigate through this lecture. 
 
 *Class notes and recap items will be found here!*
 
+**[Java Ex](https://github.com/mottaquikarim/JavaBootcamp/tree/master/recaps/May042019)**
+
 
 ## Taq Karim
 <img src="https://github.com/mottaquikarim/JavascriptBootcamp/blob/master/assets/taq.jpg?raw=true" style="width: 100px; height: auto;" width="100" align="left"> 
