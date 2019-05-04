@@ -9,7 +9,8 @@
 
 ## Learning Objectives
 
-* Key terms and terminology regarding the web tech ecosystem (stuff like the meaning of "servers", 'database", "APIs", etc)
+* Key terms and terminology regarding the web tech ecosystem 
+	* (stuff like the meaning of "servers", 'database", "APIs", etc)
 * Basics of programming and how to think programmatically
 * Basics of java the language
 * Building small terminal programs in Java
@@ -19,6 +20,7 @@
 *We will break this bootcamp up into a few sections -- and hopefully we can work through all the sections listed below!*
 
 ### [1. How does IG Work?](content/how_does_ig_work/README.md)
+### [2. Essential Terminology](content/essential_terminology/README.md)
 
 
 
