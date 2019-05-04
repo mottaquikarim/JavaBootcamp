@@ -35,6 +35,11 @@ Please keep this page open in your browser as we navigate through this lecture. 
 ### [3. What is Java?](content/what_is_java/README.md)
 ### [4. Our First Java Program](content/our_first_java_program/README.md)
 ### [5. Setting Up Our Environment](content/setting_up_our_environment/README.md)
+### [6. Basic Data Types](content/basic_data_types/README.md)
+### [7. Command Line Basics](content/command_line_basics/README.md)
+### [8. Control Flow](content/control_flow/README.md)
+### [9. Loops](content/loops/README.md)
+### [10. Classes](content/classes/README.md)
 
 
 
