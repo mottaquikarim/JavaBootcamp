@@ -71,3 +71,40 @@ Finally, in the search bar that appears, type in `Terminal`:
 
 This will install the `Terminal` package. You can test this by typing `Cmd + Shift + T` and observing that a terminal window appears.
 
+Should look something like this:
+
+![final](/assets/final-terminal.png)
+
+## STEP 4: Set up a Build System.
+
+Go to `Tools > Build System > New Build System`.
+
+![build-system](/assets/new-build-system.png)
+
+Update the code there with (copy pasted after screen shot):
+
+![build-system-2](/assets/build-system.png)
+
+```json
+{
+	"shell_cmd": "javac *.java",
+	"shell": true
+}
+```
+
+**NOW**, pressing `Cmd + B` will always **compile** your java code.
+
+## STEP 5: TEST TEST TEST
+
+Open up the **zipped** version of this repo and navigate to `examples/basics/p1` folder. You can drag it over to Sublime to open it in sublime.
+
+Try to run it! First, hit `Cmd + B`. Then, hit `Cmd + Shift + T`.
+
+
+Finally, in your terminal window, run:
+
+```
+java HelloWrold
+```
+
+![working example](/assets/working-example.png)
