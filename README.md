@@ -5,7 +5,7 @@
 
 
 *A hands on and practical introduction
- to programming and javascript development.*
+ to programming and java development.*
 
 ## Learning Objectives
 
@@ -21,6 +21,7 @@
 
 ### [1. How does IG Work?](content/how_does_ig_work/README.md)
 ### [2. Essential Terminology](content/essential_terminology/README.md)
+### [3. What is Java?](content/what_is_java/README.md)
 
 
 
