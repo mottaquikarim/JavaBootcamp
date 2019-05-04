@@ -1,3 +1,6 @@
+![stars](https://img.shields.io/github/stars/mottaquikarim/JavaBootcamp.svg?style=for-the-badge) ![follow](https://img.shields.io/github/followers/mottaquikarim.svg?label=Follow%20me%21&style=for-the-badge) ![issues](https://img.shields.io/github/issues/mottaquikarim/JavaBootcamp/open.svg?style=for-the-badge)
+
+
 ![jscon](assets/javaicon.png)
 
 # Java Bootcamp 

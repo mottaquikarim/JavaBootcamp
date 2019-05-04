@@ -59,3 +59,15 @@ Once downloaded, **please** go to your `downloads` folder and install the softwa
 
 ## STEP 3: Install the `Terminal` package.
 
+First, you'll need to install **[package control](https://packagecontrol.io/installation)**. Follow the instructions on that page.
+
+Then, open up `package control` in Sublime by typing `Cmd + Shift + P` and typing in the following:
+
+![package](/assets/package-control.png)
+
+Finally, in the search bar that appears, type in `Terminal`:
+
+![terminal](/assets/terminal.png)
+
+This will install the `Terminal` package. You can test this by typing `Cmd + Shift + T` and observing that a terminal window appears.
+
