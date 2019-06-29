@@ -27,6 +27,10 @@ Please keep this page open in your browser as we navigate through this lecture. 
 ![zip](assets/unzip.png)
 
 
+## [Class Notes](https://repl.it/@mottaquikarim/JAVA-Bootcamp-6292019) ⬅️⬅️
+
+
+
 ## Table of Contents
 *We will break this bootcamp up into a few sections -- and hopefully we can work through all the sections listed below!*
 
