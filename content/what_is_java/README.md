@@ -60,3 +60,15 @@ Java is considered simple language because it does not have complex features lik
 
 #### (Sort of) Secure
 We don’t have pointers and we cannot access out of bound arrays. That makes several security flaws like stack corruption or buffer overflow is impossible to exploit in Java. *However*, outdated java browser plug-ins in created vulnerabilities that hackers have exploited.
+
+## Key Java Principles
+
+### [Objects](https://docs.oracle.com/javase/tutorial/java/concepts/object.html)
+
+### [Classes](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
+
+### [Inheritance](https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html)
+
+### [Interfaces](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html)
+
+### [Packages](https://docs.oracle.com/javase/tutorial/java/concepts/package.html)
