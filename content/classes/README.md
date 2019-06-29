@@ -41,7 +41,6 @@ public class Person {
         return name;
     }
 
-    // void ??? I think this is maybe a function...?
     public void setName(String name) {
         // E) Method updates value of an attribute
         Name = name;
@@ -59,8 +58,8 @@ public class Person {
         return EmailAddress;
     }
 
-    public void setEmailAddress(String emailAddress) {
-        EmailAddress = emailAddress;
+    public void setEmailAddress(String e) {
+        emailAddress = e;
     }
 
     public String getPhoneNumber() {
@@ -78,7 +77,7 @@ Static vs. Non-Static
 https://git.generalassemb.ly/ga-wdi-boston/programming-fundamentals-in-java/blob/master/baseline-materials/OOP-fundamentals-lesson/README.md#demo-static-vs-non-static-10-mins
 
 
-## Accessing the Animal Class in Main
+## Accessing the Person Class in Main
 
 ```java
 public class Main {
@@ -89,7 +88,7 @@ public class Main {
         Person jack = new Person("yan", "65 Hill Street", "jack@gmail.com", "3433433434");
         Employee jill = new Employee("yan1", "21 Country Lane", "jill@gmail.com", "1234567890");
 
-        System.out.println(jill.getDateHired());
+        System.out.println(jill.getEmailAddress());
 
 
         // should add more stuff here....
